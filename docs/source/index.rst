@@ -18,6 +18,6 @@ Contents
 .. toctree::
 
    usage
-   tutorial
+   tutorials
    api
    
