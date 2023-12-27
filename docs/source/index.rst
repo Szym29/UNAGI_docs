@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+UNAGI documentations
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**UNAGI** is a Python package for end-to-end deciphering single-cell temporal dynamics and *in-silico* drug perturbations. This tool is developed and maintained by the [Ding Lab](https://junding.lab.mcgill.ca/) at McGill University. 
+
+If you find the tool is useful to your study, please consider citing the [UNAGI manuscript](https://assets.researchsquare.com/files/rs-3676579/v1_covered_2dc4a452-a1f2-47a2-acb1-f816276a9e07.pdf). 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -19,4 +18,6 @@ Contents
 .. toctree::
 
    usage
+   tutorial
    api
+   
